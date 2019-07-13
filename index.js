@@ -1,4 +1,4 @@
-nono// write your code below!
+// write your code below!
 
 var name = "Joe"
 var height = "74"
